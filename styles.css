@@ -1,0 +1,16 @@
+.bonappetit {
+    font-family: cursive;
+    font-size: xx-large;
+}
+#title_hrv {
+    background-color: white;
+    color: red;
+}
+#title_shq {
+    background-color: red;
+    color: black;
+}
+#title_hell {
+    background-color: #0d5eaf;
+    color: white;
+}
